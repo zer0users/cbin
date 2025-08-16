@@ -14,6 +14,7 @@ cd MyProject
 ```bash
 wget https://raw.githubusercontent.com/zer0users/cbin/refs/heads/main/cbin.c -O cbin.c
 gcc -o cbin cbin.c
+rm cbin.c
 ```
 
 Create an Runfile:
